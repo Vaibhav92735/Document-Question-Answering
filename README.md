@@ -20,8 +20,7 @@ This project demonstrates how to use **Retrieval-Augmented Generation (RAG)** an
 
 1. **Clone this repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Vaibhav92735/Document-Question-Answering.git
    
 2. **Install required packages**:
    ```bash
@@ -46,3 +45,6 @@ This project demonstrates how to use **Retrieval-Augmented Generation (RAG)** an
 - **PDF Text Extraction**: Extracts and cleans text from the uploaded PDF.
 - **RAG Pipeline**: Combines retrieval and language generation to provide contextually accurate answers.
 - **Gemini Integration**: Uses LangChain to interact with Google’s Gemini API for language model responses.
+
+## Colab Link
+To access the Google Colab link for this project: **[Click here](https://colab.research.google.com/drive/1FKo-WEN6suEN42UmJ240Gx9wBg4pSKfH?usp=sharing)**
